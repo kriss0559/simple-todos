@@ -6,6 +6,27 @@
   },
   "dependencies": {
     "babel-runtime": "^6.20.0",
+    "bcrypt": "^1.0.2",
     "meteor-node-stubs": "~0.2.4"
-  }
+  },
+  "version": "1.0.0",
+  "description": "simple todo app for testing",
+  "main": "main.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kriss0559/simple-todos.git"
+  },
+  "keywords": [
+    "simple",
+    "todo",
+    "in",
+    "meteor"
+  ],
+  "author": "Kishor Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriss0559/simple-todos/issues"
+  },
+  "homepage": "https://github.com/kriss0559/simple-todos#readme"
 }
